@@ -2,197 +2,169 @@ from https://github.com/hmsjy2017/Google-Mirrors/blob/master/README.md
 你用得上的镜像网站
 
 # 你用得上的镜像网站
-随缘更新中
+由于时间有限，可能无法及时更新，敬请谅解！
 
-[免费V2Ray节点](#v2ray订阅地址)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHeroic-Studio%2FGoogle-Mirrors&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-**另有免费科学上网工具**
+## ⚠服务条款
+*本仓库收集的镜像站仅供学习研究使用，严禁滥用或用于非法用途，如有违反，造成任何后果与本人无关。*
 
-*⚠️仅供学习交流使用*
+*所有镜像站部分搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
+## 更新日志
+<details>
+<summary>点击查看</summary>
 
-*⚠所有镜像站均搜集自网络，请保护好你的隐私，请勿在镜像站中登录谷歌账号*
+2023.2.23 更新Wikipedia镜像站，移除Google失效镜像
 
-**OVO-专业V2ray 廉价高速机场 多香港节点 看YouTube 4K无压力**
+2023.2.18 移除失效地址，新增Google镜像
 
-**注册链接：https://v2.qovoq.ml/#/register?code=28A42L72**
+2023.1.3 新增Wikipedia镜像
 
-2021年1月16日更新：
+2022.12.18 新增Google，GitHub镜像
 
-1. 增加一些 Google 镜像地址 和 [MTProto 代理地址](#mtproto-代理)
+2022.11.11 全面更新镜像地址
 
-2. 移除失效地址
+2022.7.30日由墨尘更新Jsdelivr,CDNJS镜像
+
+2022.8.20日由墨尘更新免费V2ray,Google镜像站地址
+</details>
+
+*****
+
+# AD
+**OVO-专业养鸡场 价格实惠节点多**  
+**CN2和IEPL优质线路尽情体验**  
+**全中转线路 看YouTube 4K无压力**  
+**[点击注册](https://ovoyun.top/#/register?code=28A42L72)**
+
+*****
+
+**云端云 Onfly 新鸡场 价格实惠节点多**  
+**解锁部分流媒体**  
+**IPLC/IEPL 专线接入 尽享极致网速**  
+**[点击注册](https://onfly.vip/#/register?code=ccP1TUsg)**
+
+*****
+
+[RackNerd](https://my.racknerd.com/aff.php?aff=6767) 高性价比美国 VPS 年付仅 $10.18 起，[点击查看优惠信息](https://blog.iamsjy.com/2023/03/19/racknerd-vps/)
 
 # 网站镜像
 
 ## 谷歌搜索
 
-https://g20.i-research.edu.eu.org/
-
-https://google.myapis.top/
-
-http://g.histsci.org/
-
-http://www.google.cn.ua/
-
-https://txt.guoqiangti.ga
-
-https://gug1.icu/
-
-https://go.weihanli.xyz/
-
-https://google.heng07.com/
-
-https://g3.luciaz.me/
-
-```````````````````````````````````````````````````
-其中一个问发帖量最大的版块，答案为：心灵之约
-````````````````````````````````````````````````````
-https://search.lib.edu.eu.org
-
-https://us9060.scholar.eu.org
-
-https://g0.seuu.cf/
+https://g.luciaz.me/
 ```
-礼东的用途是什么
-答案：教学楼
-```
-https://g0.njuu.cf/
-```
-仙林五食堂哪个窗口最热门?
-答案：羊肉面
-```
-https://g0.hohai.cf/
-```
-江宁校区图书馆旧馆原称为逸夫图书馆，请问现在“逸夫图书馆”这五个字可以在旧馆的哪里被找到？
-答案：南门
-```
-https://g0.njust.cf/
-```
-大教超旁边是什么园?
-答案：止戈园
+验证你是否来自浙江大学，三个问题的答案分别是：心灵之约、水朝夕、csxy@123
 ```
 
-https://www.dogedoge.com/ （非原版）
+https://googe.fun
+
+https://s.iit.xyz
+
+https://google.qinai.blog/
 
 ## 谷歌学术
 
-https://g0.nuaa.cf/extdomains/scholar.google.com/
+https://xs2.zidianzhan.net
+
+https://scholar.lanfanshu.cn/
 
 https://sc.panda321.com/
 
 http://so.hiqq.com.cn/
 
-https://g20.i-research.edu.eu.org/scholar
-
 https://gg.xueshu5.com/
 
 https://gfsoso.99lb.net/
 
-https://g3.luciaz.me/extdomains/scholar.google.com/
-
-https://en.yaodeyo.com:92/
-
-https://xueshu.soogle.top/
-
 https://scholar.niostack.com/
 
-https://sci-hub.org.cn/
-
 ## 维基百科
-https://zh.wikipedia.iwiki.eu.org/
 
-https://zh.iwiki.ml
+https://zhwiki.socks5.ga
 
-https://zh.wikipedia.ryancray.com
+## Sci-Hub
 
+https://sci-hub.org.cn
 
+https://sci-hub.et-fine.com
 
-https://g3.luciaz.me/extdomains/zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
+https://sci-hub.wf
 
-https://fanqiang.yanke.info/scholar
+https://sci-hub.yt
 
-https://www.wanweibaike.com/ （部分内容进行改编以符合中国大陆政策）
+https://sci.hubg.org
 
-https://en.wanweibaike.com/ （英文）
+https://sci-hub.shop
+
+https://sci-hub.st
+
+https://sci-hub.se
+
+https://sci-hub.tf
+
+https://sci-hub.ren
 
 ## GitHub
 
-https://hub.fastgit.org/ （支持`git`）
+https://hub.yzuu.cf/
 
-https://github.com.cnpmjs.org/ （支持`git`）
+https://hub.nuaa.cf/
 
-https://gitclone.com/（仅支持`git`）
+https://gitclone.com/ （仅支持`git`）
 
-https://github.wuyanzheshui.workers.dev/
+https://kgithub.com/
 
-## 镜像站全集
+## Jsdelivr
 
-https://i-research.edu.eu.org/
+https://jsd.onmicrosoft.cn/ 
 
-https://library.ac.cn/ （需验证是否来自该校）
+https://cdn1.tianli0.top/  （由Tianli提供  <a href="https://tianli-blog.club/%e5%85%8d%e8%b4%b9jsd%e9%95%9c%e5%83%8f%e4%bd%bf%e7%94%a8%e6%89%8b%e5%86%8c/">使用须知</a>）
 
-# 科学上网
+## CDNJS
 
-## VPN软件
+https://cdn.bootcdn.net/ajax/libs
 
-- [老王VPN](http://jcijeytbdks.club:5050/WangVPN_55.apk)
+https://lib.baomitu.com
 
-- [VPN Gate](https://lanzous.com/ic88zmf)
+https://mirrors.cqupt.edu.cn/cdnjs/ajax/libs （重庆邮电）
 
-- [Shadowrocket](https://iamsjy.lanzous.com/iaa2vdg)
+https://cdn.staticfile.org
 
-## V2Ray订阅地址
+https://mirrors.sustech.edu.cn/cdnjs/ajax/libs （南大）
 
-### 长期有效
-```
-https://ishare1024.netlify.com/
-https://raw.githubusercontent.com/ssrsub/ssr/master/ssrsub?adoncn.com
-https://jiang.netlify.com/?adoncn.com
-```
-
-## MTProto 代理
-（需复制到 Telegram 内打开）
-
-[1️⃣香港MTProto代理①](https://t.me/proxy?server=76.223.80.186&port=8443&secret=ee6632a7e80aa35a6ba5358de5562398507777772e62696e672e636f6d)
-
-[2️⃣香港MTProto代理②](https://t.me/proxy?server=13.248.199.150&port=8443&secret=ee6632a7e80aa35a6ba5358de5562398507777772e62696e672e636f6d)
-
-3️⃣韩国代理- -可能长期稳定
-
-- [韩国1](https://t.me/proxy?server=agahk.v2raynb.xyz&port=1009&secret=7safY2ZpDA9b4nlEyhVkEG1henVyZS5taWNyb3NvZnQuY29t)
-
-- [韩国2](https://t.me/proxy?server=152.67.198.134&port=443&secret=7safY2ZpDA9b4nlEyhVkEG1henVyZS5taWNyb3NvZnQuY29t)
-
-或脚本自行搭建：
-
-https://github.com/shellhub/shellhub/blob/master/proxy/mt_proxy.sh
+https://cdnjs.sourcegcdn.com/ajax/libs （全量同步 https://cdnjs.cloudflare.com）
 
 # 机场推荐
 
-V2ray机场——OVO机场
+OVO-专业养鸡场
 
-300G流量
+CN2和IEPL尽情体验 价格实惠网速快
 
-~~1元/月~~ 已涨价
+点击进入官网 → [https://ovoyun.top](https://ovoyun.top/#/register?code=28A42L72)
 
-点击进入官网→https://v2.qovoq.ml
+10月2日实测：
+
+**香港节点**
+
+![hk](https://user-images.githubusercontent.com/42692274/135743685-e29554d7-b344-4067-b863-788c90441d05.png)
+
+**台湾节点**
+
+![tw](https://user-images.githubusercontent.com/42692274/135743692-1c23579c-77a6-4f26-884d-818dd25da996.png)
 
 
 ## 注意
 
-1.镜像站封锁严重，存活不易，请珍惜。
+1. 镜像站封锁严重，存活不易，请珍惜。
 
-2.如有失效或镜像站推荐，请[提交 issue][1]，我会及时更新。
+2. 如有失效或镜像站推荐，请 [提交 issue][1]，我会不定期更新。
 
-## 捐助
-![alipay][2]
-![wechat][3]
+3. 由于本项目的公益性，无法保证 SLA。如对稳定性有要求，建议自建镜像站。
 
 ## 历史 Star 数
-[![Stargazers over time](https://starchart.cc/hmsjy2017/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
+[![Stargazers over time](https://starchart.cc/Heroic-Studio/Google-Mirrors.svg)](https://starchart.cc/hmsjy2017/Google-Mirrors)
 
 
 
-  [1]: https://github.com/hmsjy2017/Google-Mirrors/issues/new
-  [2]: https://cdn.jsdelivr.net/gh/hmsjy2017/Google-Mirrors@master/alipay_185x288.jpg
-  [3]: https://cdn.jsdelivr.net/gh/hmsjy2017/Google-Mirrors@master/wechat_210x288.png
+  [1]: https://github.com/Heroic-Studio/Google-Mirrors/issues/new
