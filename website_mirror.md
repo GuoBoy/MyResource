@@ -1,4 +1,4 @@
-from https://github.com/hmsjy2017/Google-Mirrors/blob/master/README.md
+from https://github.com/Heroic-Studio/Google-Mirrors.git
 你用得上的镜像网站
 
 # 你用得上的镜像网站
